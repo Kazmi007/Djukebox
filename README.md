@@ -340,3 +340,6 @@ the given email is already registered.
 3.6.19 void unsubscribePremium(const std::string &email);
 Changes the plan of the user with email to free of charge. It's assumed that a
 profile with the given email is already registered.
+
+  
+Spotify who amirite :)
