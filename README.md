@@ -1,4 +1,4 @@
-# Music-Streaming-Platform
+# Djukebox
 This project centers around making a music streaming platform using a circular linked list implementation. The principles of OOP and abstraction are highly utilized.
 
 All the main functions and their functionalities are explained below.
